@@ -1,0 +1,6 @@
+framework module iOSDemoPod {
+  umbrella header "iOSDemoPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

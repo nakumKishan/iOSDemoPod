@@ -1,0 +1,16 @@
+PODS:
+  - iOSDemoPod (0.1.0)
+
+DEPENDENCIES:
+  - iOSDemoPod (from `../`)
+
+EXTERNAL SOURCES:
+  iOSDemoPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  iOSDemoPod: 5ebeb36d6f9503c27509c4b76f32eae696958b10
+
+PODFILE CHECKSUM: 291fe570f68e619b1dd68af8bfcfb311402d0fdc
+
+COCOAPODS: 1.2.1
